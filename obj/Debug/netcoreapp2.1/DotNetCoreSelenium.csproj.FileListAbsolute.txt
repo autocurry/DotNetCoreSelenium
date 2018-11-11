@@ -1,0 +1,14 @@
+/home/sandeep/Desktop/DotNetCoreSelenium/bin/Debug/netcoreapp2.1/DotNetCoreSelenium.deps.json
+/home/sandeep/Desktop/DotNetCoreSelenium/bin/Debug/netcoreapp2.1/DotNetCoreSelenium.dll
+/home/sandeep/Desktop/DotNetCoreSelenium/bin/Debug/netcoreapp2.1/DotNetCoreSelenium.pdb
+/home/sandeep/Desktop/DotNetCoreSelenium/obj/Debug/netcoreapp2.1/DotNetCoreSelenium.csprojAssemblyReference.cache
+/home/sandeep/Desktop/DotNetCoreSelenium/obj/Debug/netcoreapp2.1/DotNetCoreSelenium.csproj.CoreCompileInputs.cache
+/home/sandeep/Desktop/DotNetCoreSelenium/obj/Debug/netcoreapp2.1/DotNetCoreSelenium.AssemblyInfoInputs.cache
+/home/sandeep/Desktop/DotNetCoreSelenium/obj/Debug/netcoreapp2.1/DotNetCoreSelenium.AssemblyInfo.cs
+/home/sandeep/Desktop/DotNetCoreSelenium/obj/Debug/netcoreapp2.1/DotNetCoreSelenium.dll
+/home/sandeep/Desktop/DotNetCoreSelenium/obj/Debug/netcoreapp2.1/DotNetCoreSelenium.pdb
+/home/sandeep/Desktop/DotNetCoreSelenium/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/sandeep/Desktop/DotNetCoreSelenium/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/sandeep/Desktop/DotNetCoreSelenium/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/sandeep/Desktop/DotNetCoreSelenium/bin/Debug/netcoreapp2.1/DotNetCoreSelenium.runtimeconfig.json
+/home/sandeep/Desktop/DotNetCoreSelenium/bin/Debug/netcoreapp2.1/DotNetCoreSelenium.runtimeconfig.dev.json
